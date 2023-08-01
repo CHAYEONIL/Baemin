@@ -1,0 +1,13 @@
+server:
+  port: 9000
+
+spring:
+  application:
+    name: demo
+
+  datasource:
+    platform: mysql
+    url: jdbc:mysql://localhost:3306/onboarding?autoReconnect=true
+    username:  root
+    password:  boy011774!@
+    driver-class-name: com.mysql.cj.jdbc.Driver # mysql 8버전
