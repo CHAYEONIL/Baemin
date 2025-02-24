@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a5ae3bf8-8e1f-4ab1-b41c-d85e8310fdb3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../RisingCampTest" beforeDir="false" afterPath="$PROJECT_DIR$/../RisingCampTest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WhereisNext/Front" beforeDir="false" afterPath="$PROJECT_DIR$/../WhereisNext/Front" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WhereisNext/back" beforeDir="false" afterPath="$PROJECT_DIR$/../WhereisNext/back" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../preOnboarding/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../preOnboarding/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../preOnboarding/src/main/java/com/example/demo/config/BaseResponseStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/../preOnboarding/src/main/java/com/example/demo/config/BaseResponseStatus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../preOnboarding/src/main/java/com/example/demo/config/secret/Secret.java" beforeDir="false" afterPath="$PROJECT_DIR$/../preOnboarding/src/main/java/com/example/demo/config/secret/Secret.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wantedProOnboarding" beforeDir="false" afterPath="$PROJECT_DIR$/../wantedProOnboarding" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2acdMUevoGOg9seH76YamLYqSg1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.Main2">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="untitled1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main2" />
+      <module name="untitled1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main2" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a5ae3bf8-8e1f-4ab1-b41c-d85e8310fdb3" name="Changes" comment="" />
+      <created>1704621755075</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704621755075</updated>
+      <workItem from="1704621756197" duration="5992000" />
+      <workItem from="1704635455805" duration="2782000" />
+      <workItem from="1704642087386" duration="219000" />
+      <workItem from="1704642469648" duration="71000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
